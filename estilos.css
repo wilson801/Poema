@@ -1,0 +1,44 @@
+.actividad{
+    background-color: rgb(163, 19, 108);
+    width: 280px;
+    height: 150x;  
+    margin: auto;
+}
+
+.parrafo1 {
+    background-color: rgb(188, 229, 218);
+    width: 280px;
+    height: 150x;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parrafo2{
+    background-color: blueviolet;
+    width: 280px;
+    height: 150x;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.parrafo3{
+    background-color: rgb(7, 150, 26);
+    width: 280px;
+    height: 150x;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.titulo{
+    background-color: rgb(80, 62, 216);
+    width: 280px;
+    height: 150x;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link{
+    width: 280px;
+    height: 150x;
+    margin: auto;
+}
